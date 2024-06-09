@@ -1,2 +1,2 @@
-import random 
+import ranom 
 print(random.randint(0,9))
